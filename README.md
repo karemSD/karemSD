@@ -1,8 +1,6 @@
+
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=b24392&lines=Hi+all !+👋;+I'm+Karem+Saad!;" />
-</h1>
-<h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=2117C5&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=b24392&lines=Hi+all !+👋;+I'm+Karem+Saad!;" /></a>
     </h1>
 <h3 align="center">Mobile app Developer 📱| Software Engineer 🌐🛠️| Backend Developer 👨‍💻</h3>
 
