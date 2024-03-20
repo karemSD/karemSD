@@ -9,6 +9,20 @@
     <img align="center" alt="GIF" src="programmer.gif" width="500" height="320" />
 </div>
 
+
+
+<details><summary> <h3> Who Am I 🕵️‍♂️ ? </h3></summary>
+
+
+**`Hi, I am Karem Saad have Diploma of software engineer from Technical Computer College in Damascus university and in my second year of Information Technology Engineering at Syrian Virtual University 
+I am now at my third year of going into programming world and software engineering and in this journey I have discover many great concepts like OOP , solid principles , Generic with Abstract classes , Unit Testing and UML so I took all these concepts to do it with every language I work on such as C# , Dart , php , Python 
+In my last experience on big project I noticed the importance of implementing design patterns for scalability and maintainability. This led me to delve deeper into methodologies like Model-View-Controller (MVC) and Repository Pattern, 
+All that to get the best experience for my clients or the team that i work with in our software 
+in the end at last period i working on frameworks Flutter And Laravel to elevate my skills on both of them and tools such as Git and keep going In my journey of learning
+`**
+
+</details>
+<hr>
 - 🌱 I’m currently learning **Flutter and Laravel Development**
 
 - 📫 How to reach me **saad.karem8642@gmail.com**
@@ -33,4 +47,5 @@
     <p style="margin-right: 5px;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karemsd&show_icons=true&locale=en&layout=compact&theme=radical" alt="karemsd" /></p>
     <p style="margin-left: 5px;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=karemsd&show_icons=true&locale=en&theme=radical" alt="karemsd" /></p>
 </div>
+
 
