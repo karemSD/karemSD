@@ -22,9 +22,9 @@
 <a href="https://instagram.com/karem.sd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karem.sd" height="30" width="40" /></a>
 </p>
 <hr>
-<h3 align="center" > 🚀 Languages - Frameworks - Tools - Libraries 🚀</h3>
+<h3 align="center" > 🚀 Languages - Frameworks - Tools - Libraries - Workspace 🚀</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,laravel,firebase,bootstrap,html,css,vscode,figma,git,js,postman,cs,php,mysql" 
+    <img src="https://skillicons.dev/icons?i=dart,flutter,laravel,firebase,bootstrap,html,css,vscode,figma,git,js,postman,cs,php,mysql,github,gitlab,vscode,visualstudio,windows" 
 
  </p>
 
