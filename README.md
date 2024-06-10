@@ -17,11 +17,10 @@
 <details><summary> <h3> Who Am I 🕵️‍♂️ ? </h3></summary>
 
 
-**`Hi, I am Karem Saad have Diploma of software engineer from Technical Computer College in Damascus university and in my second year of Information Technology Engineering at Syrian Virtual University 
-I am now at my third year of going into programming world and software engineering and in this journey I have discover many great concepts like OOP , solid principles , Generic with Abstract classes , Unit Testing and UML so I took all these concepts to do it with every language I work on such as C# , Dart , php , Python 
-In my last experience on big project I noticed the importance of implementing design patterns for scalability and maintainability. This led me to delve deeper into methodologies like Model-View-Controller (MVC) and Repository Pattern, 
-All that to get the best experience for my clients or the team that i work with in our software 
-in the end at last period i working on frameworks Flutter And Laravel to elevate my skills on both of them and tools such as Git and keep going In my journey of learning
+**`Hi, I am Karem Saad. I have a Diploma in Software Engineering from the Technical Computer College at Damascus University, and I am in my second year of Information Technology Engineering at the Syrian Virtual University. Currently, I am in my third year of diving into the world of programming and software engineering.
+Throughout this journey, I have discovered many great concepts such as OOP, SOLID principles, generics with abstract classes, unit testing, and UML. I apply these concepts to every language I work with, including C#, Dart, PHP, and Python.
+In my last experience with a large project, I recognized the importance of implementing design patterns for scalability and maintainability. This led me to delve deeper into methodologies like Model-View-Controller (MVC) and the Repository Pattern. My goal is always to provide the best experience for my clients or the team I work with.
+Lately, I have been focusing on frameworks such as Flutter and Laravel to elevate my skills in both. Additionally, I utilize tools such as Git to enhance my workflow. I am committed to continually learning and improving in my field.
 `**
 
 </details>
